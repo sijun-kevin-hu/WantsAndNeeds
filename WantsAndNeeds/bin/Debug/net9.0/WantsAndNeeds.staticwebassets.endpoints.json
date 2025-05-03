@@ -897,6 +897,304 @@
       ]
     },
     {
+      "Route": "images/vacation-planning.h2cn77d6j8.svg",
+      "AssetFile": "images/vacation-planning.svg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001730103806"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2cn77d6j8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        },
+        {
+          "Name": "label",
+          "Value": "images/vacation-planning.svg"
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.h2cn77d6j8.svg",
+      "AssetFile": "images/vacation-planning.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2cn77d6j8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        },
+        {
+          "Name": "label",
+          "Value": "images/vacation-planning.svg"
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.h2cn77d6j8.svg.gz",
+      "AssetFile": "images/vacation-planning.svg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2cn77d6j8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/vacation-planning.svg.gz"
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.svg",
+      "AssetFile": "images/vacation-planning.svg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001730103806"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.svg",
+      "AssetFile": "images/vacation-planning.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.svg.gz",
+      "AssetFile": "images/vacation-planning.svg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js.gz",
       "Selectors": [

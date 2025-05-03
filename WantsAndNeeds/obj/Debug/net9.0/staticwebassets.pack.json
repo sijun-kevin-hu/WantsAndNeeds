@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/images/vacation-planning.svg",
+      "PackagePath": "staticwebassets/images/vacation-planning.svg"
+    },
+    {
       "Id": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

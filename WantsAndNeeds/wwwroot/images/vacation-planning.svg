@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .st0{fill:#E6F3FF}
+        .st1{fill:#0D6EFD}
+        .st2{fill:#FFFFFF}
+        .st3{fill:#6C757D}
+    </style>
+    <rect class="st0" width="800" height="600"/>
+    <g transform="translate(200, 100)">
+        <!-- Calendar -->
+        <rect x="0" y="0" width="200" height="150" rx="10" class="st1"/>
+        <text x="100" y="40" text-anchor="middle" class="st2" font-size="24">JAN</text>
+        <text x="100" y="80" text-anchor="middle" class="st2" font-size="36">15</text>
+        
+        <!-- People -->
+        <circle cx="400" cy="75" r="40" class="st1"/>
+        <circle cx="450" cy="75" r="40" class="st1"/>
+        <circle cx="500" cy="75" r="40" class="st1"/>
+        
+        <!-- Map -->
+        <rect x="300" y="200" width="200" height="150" rx="10" class="st2" stroke="#0D6EFD" stroke-width="2"/>
+        <path d="M350,250 L450,250 L400,300 Z" fill="#0D6EFD"/>
+        <circle cx="400" cy="275" r="5" fill="#0D6EFD"/>
+        
+        <!-- Connecting Lines -->
+        <path d="M200,75 L300,75" stroke="#0D6EFD" stroke-width="2" stroke-dasharray="5,5"/>
+        <path d="M540,75 L600,75" stroke="#0D6EFD" stroke-width="2" stroke-dasharray="5,5"/>
+        <path d="M400,150 L400,200" stroke="#0D6EFD" stroke-width="2" stroke-dasharray="5,5"/>
+        
+        <!-- Arrows -->
+        <path d="M300,75 L290,70 L290,80 Z" fill="#0D6EFD"/>
+        <path d="M600,75 L610,70 L610,80 Z" fill="#0D6EFD"/>
+        <path d="M400,200 L395,190 L405,190 Z" fill="#0D6EFD"/>
+    </g>
+</svg> 

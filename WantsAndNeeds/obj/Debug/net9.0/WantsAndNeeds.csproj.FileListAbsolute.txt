@@ -95,3 +95,5 @@
 /Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/WantsAndNeeds.pdb
 /Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/WantsAndNeeds.genruntimeconfig.cache
 /Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/ref/WantsAndNeeds.dll
+/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/WantsAndNeeds.sourcelink.json
+/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/ljhf9kjq9b-h2cn77d6j8.gz

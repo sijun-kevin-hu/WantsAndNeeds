@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z+qe6v0Gr++WuzSg4F4XvR1SMDXq18yYqIgIBsQ7vbA=",
+  "Hash": "isPSHyHlCEPWC1CVBdFf0Chck0+74YC6oj8CUWczov0=",
   "Source": "WantsAndNeeds",
   "BasePath": "_content/WantsAndNeeds",
   "Mode": "Default",
@@ -687,6 +687,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/scopedcss/projectbundle/WantsAndNeeds.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/ljhf9kjq9b-h2cn77d6j8.gz",
+      "SourceId": "WantsAndNeeds",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/WantsAndNeeds",
+      "RelativePath": "images/vacation-planning#[.{fingerprint=h2cn77d6j8}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/images/vacation-planning.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "71rill46ji",
+      "Integrity": "W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/images/vacation-planning.svg"
     },
     {
       "Identity": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/lyc3m80mtx-ttgo8qnofa.gz",
@@ -1443,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/images/vacation-planning.svg",
+      "SourceId": "WantsAndNeeds",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/",
+      "BasePath": "_content/WantsAndNeeds",
+      "RelativePath": "images/vacation-planning#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h2cn77d6j8",
+      "Integrity": "JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/vacation-planning.svg"
     },
     {
       "Identity": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/js/site.js",
@@ -3320,6 +3362,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.h2cn77d6j8.svg",
+      "AssetFile": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/ljhf9kjq9b-h2cn77d6j8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001730103806"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2cn77d6j8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/vacation-planning.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.h2cn77d6j8.svg",
+      "AssetFile": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/images/vacation-planning.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2cn77d6j8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/vacation-planning.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.h2cn77d6j8.svg.gz",
+      "AssetFile": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/ljhf9kjq9b-h2cn77d6j8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h2cn77d6j8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/vacation-planning.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.svg",
+      "AssetFile": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/ljhf9kjq9b-h2cn77d6j8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001730103806"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.svg",
+      "AssetFile": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/wwwroot/images/vacation-planning.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzDl33upZXr33iIVx12uV9RvRWsakjEhC4l7W8pcm2g="
+        }
+      ]
+    },
+    {
+      "Route": "images/vacation-planning.svg.gz",
+      "AssetFile": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/Debug/net9.0/compressed/ljhf9kjq9b-h2cn77d6j8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 02:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8LT/IAdQfYn9W1eF9cfJDZL9h0Zj2zaJaQHsHj9CXk="
         }
       ]
     },
