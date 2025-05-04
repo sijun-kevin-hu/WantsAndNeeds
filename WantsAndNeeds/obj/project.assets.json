@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/WantsAndNeeds.csproj",
+      "projectUniqueName": "/Users/kevinhu/Programming/LearnCSharp/WantsAndNeeds/WantsAndNeeds/WantsAndNeeds.csproj",
       "projectName": "WantsAndNeeds",
-      "projectPath": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/WantsAndNeeds.csproj",
+      "projectPath": "/Users/kevinhu/Programming/LearnCSharp/WantsAndNeeds/WantsAndNeeds/WantsAndNeeds.csproj",
       "packagesPath": "/Users/kevinhu/.nuget/packages/",
-      "outputPath": "/Users/kevinhu/Programming/LearnC#/WantsAndNeeds/WantsAndNeeds/obj/",
+      "outputPath": "/Users/kevinhu/Programming/LearnCSharp/WantsAndNeeds/WantsAndNeeds/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevinhu/.nuget/NuGet/NuGet.Config"
